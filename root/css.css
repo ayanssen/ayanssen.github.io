@@ -1,0 +1,88 @@
+body	{
+	background-color: #3a62b2;
+}
+
+div	{
+	width:1090px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.header	{
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:75px;
+	padding:auto;
+	max-width: 1090px;
+	border: 2px solid #ffffff;
+	border-right:0px;
+	border-left:  0px;
+}
+
+div.body	{
+	width: 970px;
+	background-color: #ffffff;
+	margin-bottom:0px;
+}
+
+div.box1	{
+	width:480px;
+}
+
+div.boxsmall1	{
+	width:323px;
+	height:267px;
+	background-color: #ffffff;
+	margin-left:auto;
+	margin-right:auto;
+	float:left;
+}
+
+div.discord	{
+	width:323px;
+	height:534px;
+	background-color: #ffffff;
+	margin-left:auto;
+	margin-right:auto;
+	float:right;
+}
+
+img.headimg	{
+	width:400px;
+	height:100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3a62b2;
+}
+li {
+    float: left;
+}
+
+li a {
+	font-family:helvetica;
+	font-style:bold;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 9px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #4286f4;
+}
+
+h1	{
+	font-family: helvetica;
+	font-size: 24px;
+}
+
+hr	{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	width:940px;
+}
